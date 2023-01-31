@@ -1,5 +1,4 @@
 .calculation {
-    /* padding: 1rem 5rem !important; */
     padding: 1rem !important;
     background-color: rgba(234, 234, 231, 0.719);
     width: 85% !important;
@@ -8,19 +7,19 @@
 
 @media (min-width: 768px) {
     .calculation {
-        padding: 1rem 5rem !important;
+        padding: 1rem 5rem;
     }
 }
 
 @media (min-width: 992px) {
     .calculation {
-        padding: 1rem 2rem !important;
+        padding: 1rem 2rem;
     }
 }
 
 @media (min-width: 1400px) {
     .calculation {
-        padding: 1rem 4rem !important;
+        padding: 1rem 4rem;
     }
 }
 

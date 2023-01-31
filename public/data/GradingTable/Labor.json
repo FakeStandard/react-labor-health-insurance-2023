@@ -51,12 +51,12 @@
     },
     {
         "Level": "第11級",
-        "SalaryRange": "40,101-42,200",
-        "InsuredSalaryLevel": "42,200"
+        "SalaryRange": "40,101-42,000",
+        "InsuredSalaryLevel": "42,000"
     },
     {
         "Level": "第12級",
-        "SalaryRange": "42,201-43,900",
+        "SalaryRange": "42,001-43,900",
         "InsuredSalaryLevel": "43,900"
     },
     {
