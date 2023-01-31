@@ -25,26 +25,25 @@ export class Menu extends React.Component<IMenuProps, IMenuStates>{
   public render(): React.ReactElement<IMenuProps> {
     return (
       <div className="menu">
-        <h3 className="header">
-          2023 <br />薪資即時試算與勞健保查詢
+        <h3 className="header">test
+          {/* 2023 <br />薪資即時試算與勞健保查詢 */}
         </h3>
         <Nav defaultActiveKey='/home' className='nav'>
           <Nav.Item>
             <Nav.Link as={Link} to="/home" className="link">
-              <FontAwesomeIcon icon={faHome} />
+              {/* <FontAwesomeIcon icon={faHome} /> */}
               &nbsp;Home
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
             <Nav.Link as={Link} to='/calculation' className='link'>
-              <FontAwesomeIcon icon={faCalculator} />
               &nbsp;薪資即時試算
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>
             <Nav.Link className='link' onClick={this.navTableClick}>
               <FontAwesomeIcon icon={this.state.collapsed ? faCaretDown : faCaretUp} className='collapsed-icon' />
-              <FontAwesomeIcon icon={faTable} />
+              {/* <FontAwesomeIcon icon={faTable} /> */}
               &nbsp;分級表
             </Nav.Link>
             <NavbarCollapse in={this.state.collapsed} className='nav-collapse'>

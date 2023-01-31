@@ -8,7 +8,7 @@ export class Layout extends React.Component {
     return (
       <div className='layout'>
         <Menu />
-        <Outlet /> 
+        <Outlet />
       </div>
     )
   }
