@@ -29,9 +29,9 @@
 ### 投保薪資分級表
 [勞保投保薪資分級表](https://www.bli.gov.tw/0103175.html)
 
-[全民健康保險投保金額分級表](https://data.gov.tw/dataset/20251)
+[全民健康保險投保金額分級表](https://www.nhi.gov.tw/Content_List.aspx?n=1269AC29FCEF36A3&topn=5FE8C9FEAE863B46)
 
-[勞工退休金月提繳分級表](https://data.gov.tw/dataset/6274)
+<!-- [勞工退休金月提繳分級表](https://data.gov.tw/dataset/6274) -->
 
 ### 勞工保險費分擔金額表
 [一般單位保險費分擔金額表](https://www.bli.gov.tw/0103211.html)
