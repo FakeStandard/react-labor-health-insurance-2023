@@ -18,7 +18,7 @@ export class Labor extends React.Component<ILaborProps, ILaborStates> {
   }
 
   componentDidMount(): void {
-    this.getData();
+    this.getData()
   }
 
   getData = () => {
