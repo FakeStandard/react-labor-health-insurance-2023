@@ -1,5 +1,5 @@
 import React from "react";
-import './Labor.css'
+import './Labor.css';
 import { Card, Col, Container, Row, Stack, Table } from "react-bootstrap";
 import { ILaborInfo } from "../../../models/ILaborInfo";
 
